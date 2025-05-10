@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&login=slouham)](https://github.com/mohouyizme/1337-readme)
+[![<username>'s 42 stats](https://badge.mediaplus.ma/levi/<slouham>)](https://github.com/oakoudad/badge42)
 <!--
 **salmane10/salmane10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
