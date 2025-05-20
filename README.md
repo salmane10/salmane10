@@ -1,5 +1,5 @@
 ## Hello and welcome 👋
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/slouham" alt="slouham's 42 stats" /></a>
+<!--<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/slouham" alt="slouham's 42 stats" /></a>
 <!--
 **salmane10/salmane10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
